@@ -62,7 +62,7 @@
 - **模組版本**：`v1.0.0`  
 
 ---
-
+##[以編譯檔案](https://www.dropbox.com/scl/fi/xe8c0p4fh6pco4tywgsb5/tsm-menu-1.0.0.jar?rlkey=pvk557qt0l0ybuwrbp5hikw1e&st=0lw4ss1h&dl=0)
 ## 🚀 使用方式
 1. 將模組放入 `mods` 資料夾  
 2. 進入遊戲後按下 `I` 鍵開啟 **主選單**  
