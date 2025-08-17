@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "tsm-menu",
+	"version": "${version}",
+	"name": "tsm menu",
+	"description": "這是一個用於 TSM(台灣學生麥塊) 的模組，提供了自定義菜單功能。",
+	"authors": [
+		"rich0807"
+	],
+	"contact": {
+		"homepage": "https://github.com/rich0807",
+		"sources": "https://github.com/rich0807/tsm-menu"
+	},
+	"license": "MIT",
+	"icon": "assets/tsm-menu/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.modid.TsmMenu"
+		],
+		"client": [
+			"name.modid.TsmMenuClient"
+		]
+	},
+	"mixins": [
+		"tsm-menu.mixins.json"
+	],
+	"depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+	"minecraft": "1.21.4"
+  },
+	"suggests": {
+		"another-mod": "*"
+	}
+}
